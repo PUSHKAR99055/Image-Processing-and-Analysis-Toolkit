@@ -1,1 +1,3 @@
 # Image-Processing-and-Analysis-Toolkit
+
+The "Image Processing and Analysis Toolkit" is a project designed to perform a range of image processing tasks on an RGB image (8 bits/pixel) in JPEG format. It allows users to perform operations like channel isolation (RC, GC, BC), generating grayscale images (AG), plotting histograms, binarization (AB), edge detection (AE), and creating an image pyramid (AG2, AG4, AG8). These operations provide a comprehensive set of tools for image analysis, manipulation, and visualization. The toolkit enables users to process and analyze images with ease, offering valuable insights into various image attributes.
